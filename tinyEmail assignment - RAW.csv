@@ -1,0 +1,501 @@
+id,user_email,first_name,last_name,account_status,onboarding_step,created_at,subscription created date,subscription name,subscription monthly cost,campaign name,campaign subject,campaign status,campaign start,account created year,account created month,account created day,account created week
+32c4b1ad-ae49-4740-92e5-350da3e8e084,rajab+dev@tinyemail.com,rajab,rajab,ACTIVE,FINISHED,2023-12-28 10:37:21,2024-01-02 10:39:23,Shopify Pro Free,0,"Campaign name [14 Feb, 2024 - 04:28:33 pm]",Awesome subject,DRAFT,,2023,12,28,52
+6b061499-68e7-4bc7-b5d3-a746b5ad84e6,sahil+tiny051223@tinyemail.com,Information,Technology,ACTIVE,FINISHED,2023-12-19 09:44:32,2023-12-19 09:44:59,Shopify Pro Free,0,#N/A,#N/A,#N/A,#N/A,2023,12,19,51
+d7d860fc-4ae0-4685-b99a-f55f8e79765d,vitalie+vitalie-test-store-free-8@tinyemail.com,Vitalie,Svet,ACTIVE,FINISHED,2023-12-13 13:18:09,2023-12-13 13:18:26,Shopify Pro Free,0,#N/A,#N/A,#N/A,#N/A,2023,12,13,50
+5f3b457a-068e-4ff9-939d-d552453717b1,vitalie+vitalie-test-store-free-7@tinyemail.com,Vitalie,Svet,ACTIVE,FINISHED,2023-12-13 11:39:47,2023-12-13 13:06:52,Shopify Pro Free,0,#N/A,#N/A,#N/A,#N/A,2023,12,13,50
+f18a45e2-aa8b-42fd-8ea9-17490f82abac,rajab@tinyemail.com,Rajab,Nagori,ACTIVE,FINISHED,2023-12-01 11:01:47,2023-12-06 11:05:59,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,12,1,48
+413251b8-4a72-44c9-8358-a59a51ec48a4,rajab+stage@tinyemail.com,rajab,stageacc,ACTIVE,FINISHED,2023-11-24 09:46:27,2023-11-29 09:48:49,Pro 15K,65,"Campaign name [24 Nov, 2023 - 03:35:51 pm]","[CUSTOMER_FIRST_NAME], don't miss out on these stylish and comfortable shoes for men!",DRAFT,,2023,11,24,47
+566851b3-79b2-44a8-8096-6b88b9acb5db,vitalie+vitalie-test-store-free-5@tinyemail.com,Vitalie,Svet,ACTIVE,FINISHED,2023-11-07 19:37:45,2023-11-12 19:48:14,Pro 15K,65,"Campaign name [07 Nov, 2023 - 09:48:29 pm]",The best coffee beans to start your day,LAUNCHED,2023-11-07 19:56:19,2023,11,7,45
+38d530a4-25d5-476c-88f6-1e16f2f7b0ee,sahil+test1@tinyemail.com,Sahil,Gupta,ACTIVE,FINISHED,2023-11-07 11:21:18,2023-11-12 11:22:50,Standard 15K,15,"Campaign name [12 Dec, 2023 - 09:28:23 pm]",test,DELETED,,2023,11,7,45
+26abc8d0-d022-4b75-846b-bf350c338fce,akash+test2323@tinyemail.com,akash,lathiya,ACTIVE,FINISHED,2023-11-07 06:40:33,2023-11-12 07:20:04,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,11,7,45
+b4a0e483-38f4-48de-bce5-36ca1e75f686,akash+test000@tinyemail.com,akash,lathiya,ACTIVE,FINISHED,2023-11-06 11:13:39,2023-12-01 00:00:08,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,11,6,45
+28cade3e-96de-4d8a-b9a7-f734bd5a827f,akash+test+stage1@tinyemail.com,john,cena,ACTIVE,FINISHED,2023-11-01 05:56:13,2023-11-06 06:15:06,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,11,1,44
+9c27532c-1c13-4d0d-80a1-b4b915e1a708,sahil+tinyemail1@tinyemail.com,Information,Technology,ACTIVE,FINISHED,2023-10-25 09:58:09,2023-10-25 09:58:25,Shopify Pro Free,0,"Campaign name [07 Dec, 2023 - 07:39:57 pm]",test,DELETED,,2023,10,25,43
+90c609ce-90e2-4613-83c5-6a8b62ec24f2,vitalie+vitalie-test-store-free-3@tinyemail.com,Vitalie,Svet,ACTIVE,FINISHED,2023-10-23 19:23:09,2023-10-23 19:23:19,Shopify Pro Free,0,#N/A,#N/A,#N/A,#N/A,2023,10,23,43
+ab1e0e7e-5387-4bd7-bd3a-b68cbbaf5927,vitalie+vitalie-test-store-free-2@tinyemail.com,Vitalie,Svet,ACTIVE,INTEGRATION_ADDED,2023-10-23 19:00:51,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,10,23,43
+2f064e30-46c3-4266-b470-e7b5337c856c,vitalie+vitalie-test-store-free-1@tinyemail.com,Vitalie,Svet,ACTIVE,INTEGRATION_ADDED,2023-10-23 18:41:49,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,10,23,43
+35146d55-8364-4f1b-829f-24f04232a5e9,sahil@tinyemail.com,Sahil,Gupta,ACTIVE,FINISHED,2023-09-22 10:54:06,2023-12-01 00:00:26,Free,0,#N/A,#N/A,#N/A,#N/A,2023,9,22,38
+dd81ad71-2b52-4e41-88a9-56d19586b892,ayaan+test_stage@tinyemail.com,Ayaan,Kaifullah,ACTIVE,IDENTITY_CREATED,2023-09-20 13:48:42,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,9,20,38
+b5d32ff3-1d3d-4685-a0e1-9bc2c046318a,ayaan+test@tinyemail.com,Ayaan,Kaifullah,ACTIVE,FINISHED,2023-09-20 07:43:51,2023-09-25 08:08:45,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,9,20,38
+9ddfe89d-d421-4898-bcb9-aa5a71bfeb09,ayaan+t2@tinyemail.com,Ayaan,test,ACTIVE,INTEGRATION_ADDED,2023-09-20 05:34:18,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,9,20,38
+bde73675-f8c8-4856-931f-832c3088e45d,ayaan+t1@tinyemail.com,Ayaan,Kaif,CANCELED,FINISHED,2023-09-07 05:45:53,2023-09-12 06:57:21,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,9,7,36
+b5b44a17-9ab9-4fb4-aa19-d505a7a835c1,vidya@tinyemail.com,Vidya,Shekhar,CANCELED,FINISHED,2023-09-05 11:32:45,2023-09-10 11:42:27,Pro 15K,65,"Campaign name [05 Sep, 2023 - 05:31:32 pm]",Test Email,DRAFT,,2023,9,5,36
+23ec5cfd-2a76-48d1-b684-0ec70243ec65,ayaan@tinyemail.com,Ayaan,Kaifullah,CANCELED,FINISHED,2023-08-21 07:42:17,2023-08-26 08:44:27,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,8,21,34
+8d5a23ea-d465-4004-a124-edf8c3291a02,akash+test11@tinyemail.com,akash,lathiya test,ACTIVE,FINISHED,2023-08-17 09:00:59,2023-08-22 09:06:10,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,8,17,33
+c57ba01b-8ab8-4782-a65f-be6032d47cdb,shubham+test+webhook@tinyemail.com,Shm,Mit,CANCELED,FINISHED,2023-07-31 14:38:47,2023-08-05 14:47:46,Pro 15K,65,"Clone of_Clone of_Clone of_Clone of_Clone of_Campaign name [07 Aug, 2023 - 07:04:36 pm]",Staging Test,COMPLETED,2023-08-08 15:50:28,2023,7,31,31
+12e920ef-7894-4783-8e8d-26f02c64b319,shubham+test2@tinyemail.com,Shm,Mit,CANCELED,FINISHED,2023-07-19 14:46:43,2023-07-24 14:50:22,Pro 15K,65,"Campaign name [20 Jul, 2023 - 12:19:40 pm]",Test Campaign,DELETED,,2023,7,19,29
+7e1c9192-c773-45a4-b9c6-420787beaf96,shubham+test1@tinyemail.com,Shm,Mit,ACTIVE,FINISHED,2023-07-17 15:54:34,2023-07-22 16:12:19,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,7,17,29
+050e2d76-0464-4153-8024-22ba4d7ef54c,it@tinyeinstein.ai,Information,Technology,ACTIVE,FINISHED,2023-07-17 13:42:31,2023-07-22 13:45:08,Pro 15K,65,"Clone of_Campaign name [21 Jul, 2023 - 06:34:14 pm]",Test Campaign,COMPLETED,2023-07-21 14:05:04,2023,7,17,29
+e69bfc8f-22d1-4aa0-9088-b0e731d52b2c,shubham@tinyemail.com,Shubham,Mittal,ACTIVE,FINISHED,2023-07-17 12:09:11,2023-07-23 05:03:00,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,7,17,29
+e661c0bf-8d30-4776-a912-90676f17cc0d,vitalie+301@tinyemail.com,Vitalie,Svet,ACTIVE,FINISHED,2023-07-13 12:37:50,2023-07-13 16:25:54,Standard 1.5M,"1,500","Campaign name [13 Jul, 2023 - 03:53:04 pm]",TestUpgrade,COMPLETED,2023-07-13 12:55:44,2023,7,13,28
+a3da84ee-dfbd-4138-85cd-685f8df36236,iuliana+testDemo2111@tinyemail.com,dfg,dfg,ACTIVE,FINISHED,2023-06-08 07:38:59,2023-06-13 07:56:19,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,6,8,23
+03e0894a-1abe-4ff9-8b5c-613508fcb2c0,iuliana+test5645645604@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-05-03 12:41:04,2023-05-08 12:42:49,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,5,3,18
+83e993e5-aa47-4d3c-9b4a-f62bc0baba1d,veronicaa+testStage242@tinyemail.com,Cofi,Bin,ACTIVE,FINISHED,2023-05-03 12:37:01,2023-05-08 12:40:18,Pro 15K,65,"Campaign name [03 May, 2023 - 05:05:36 pm]","[CUSTOMER_FIRST_NAME], don't miss out on this great product!",DRAFT,,2023,5,3,18
+0d165f4c-0284-414e-b06f-ca0b356f3f17,veronicaa+testStage233@tinyemail.com,Cofi,Bin,ACTIVE,FINISHED,2023-05-02 11:57:49,2023-05-07 11:59:58,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,5,2,18
+7a3419cf-c5e4-48ee-b874-2f0bd1adb8c0,veronicaa@tinyemail.com,Veronica,Andrei,ACTIVE,FINISHED,2023-04-25 15:32:30,2023-04-30 15:34:05,Pro 15K,65,"Campaign name [25 Apr, 2023 - 06:33:51 pm]",The best way to improve your coffee is with Cofi Bian!,DRAFT,,2023,4,25,17
+ba431b8d-2b60-448f-b0bb-cc7c21f8c457,iuliana+test6545464@tinyemail.com,Iuliana,Lungu,ACTIVE,INTEGRATION_ADDED,2023-04-15 19:05:39,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,4,15,15
+bf5632ed-af4a-452e-8063-227e07acdaa9,danielav+test1QA@tinyemail.com,Daniela,Vescu,ACTIVE,FINISHED,2023-04-07 12:08:44,2023-04-12 12:10:18,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,4,7,14
+24a690d5-c65d-41cc-bcc1-85369e448900,iuliana+test565645@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-04-01 13:45:40,2023-04-06 13:50:45,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,4,1,13
+bd1eafb4-85c7-40f8-894c-5a866dc210bf,iuliana+test5648@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-03-29 12:16:17,2023-04-03 12:18:36,Pro 15K,65,Campaign 1,Campaign 1,COMPLETED,2023-03-29 18:11:36,2023,3,29,13
+1048c58c-aeef-4b43-b5e2-e55ee09c4f70,danielav+QAtest18916@tinyemail.com,Daniela,Vescu,ACTIVE,FINISHED,2023-03-29 11:37:29,2023-04-01 00:03:12,Free,0,#N/A,#N/A,#N/A,#N/A,2023,3,29,13
+93c1eb62-d544-45ed-8d87-e2e926061506,iuliana+tets654@tinyemail.com,Iuliana,Lungu,FROZEN,FINISHED,2023-03-29 11:13:33,2023-04-03 11:31:08,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,29,13
+3357e4ea-bce2-4749-8de8-a83fe6eba05a,iuliana+test544271@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-29 02:38:46,2023-04-03 02:40:41,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,29,13
+1d326bca-c492-4c1c-964e-ead3c001b792,iuliana+test53034564@tinyemail.com,Iuliana,Lungu,CANCELED,FINISHED,2023-03-27 12:02:00,2023-04-01 12:04:54,Pro 15K,65,"Campaign name [27 Mar, 2023 - 03:03:30 pm]",vng,DRAFT,,2023,3,27,13
+7b06d93a-e4fe-4094-8c2b-904417cf23e0,iuliana+test724791@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-03-27 02:38:38,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,3,27,13
+d9084f02-9cb7-4d91-b8da-f8ea70d8b1e9,iuliana+test788894@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-03-23 02:39:29,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,3,23,12
+cacdc30d-a544-40bc-a5a0-5e636543a696,iuliana+test622053@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-03-23 02:36:27,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,3,23,12
+6ee668c3-e4d5-4159-80c5-e9085d1b9b1a,iuliana+test575147@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-22 02:38:41,2023-03-27 02:41:13,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,22,12
+2402b105-3c93-43f7-b678-3de2d7401e93,danielav+dana1QA@tinyemail.com,Daniela,Vescu,ACTIVE,FINISHED,2023-03-21 05:32:39,2023-03-26 05:36:28,Free,0,#N/A,#N/A,#N/A,#N/A,2023,3,21,12
+3b82ccdd-f41d-43f4-85e2-3da63b168bdb,iuliana+test297265@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-20 02:39:27,2023-03-25 02:41:21,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,20,12
+6af0b228-327c-4fab-87d4-d0b492861f41,iuliana+test127645@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-19 02:38:39,2023-03-24 02:40:04,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,19,12
+d880ba0e-189c-401f-a884-e695153fb388,iuliana+test0564566544@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-03-18 10:29:26,2023-03-23 10:39:11,Pro 15K,65,Campaign name,Subject,DRAFT,,2023,3,18,11
+cb5a3d54-dfd6-4d1c-ab80-2cec0b3e3f01,iuliana+test888586@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-03-18 02:49:28,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,3,18,11
+3ebf80ba-e842-4e43-9868-1518b3e9815c,iuliana+test384746@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-18 02:36:29,2023-03-23 02:41:02,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,18,11
+f038ba50-1ff7-4a16-b7f7-97a30f940324,danielav+testQA110011@tinyemail.com,Daniela,Vescu,ACTIVE,FINISHED,2023-03-17 05:58:34,2023-03-22 09:52:36,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,17,11
+ea7d7ef4-f9a6-469a-82cc-7b5d818ce904,iuliana+test412840@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-17 02:49:49,2023-03-22 02:51:23,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,17,11
+7ac4b6a5-16cf-4140-b592-209ab5a1f4ba,iuliana+test788114@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-17 02:36:31,2023-03-22 02:38:10,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,17,11
+4704994e-fa40-4660-a4a4-ae74cfc26772,iuliana+test348357@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-03-16 02:49:57,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,3,16,11
+3b496881-84bc-46fa-988c-0871225bb552,iuliana+test333223@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-16 02:36:29,2023-03-21 02:37:46,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,16,11
+31be185f-3cce-4ba6-a31a-50f6d288fb3f,iuliana+test180803@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-15 02:49:36,2023-03-20 02:51:49,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,15,11
+ed2cad15-29ad-4258-a986-223d0dcfe07c,iuliana+test150226@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-15 02:36:31,2023-03-20 02:39:17,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,15,11
+75ccf983-e544-4cee-99f8-56247c2984e5,iuliana+test545645603@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-03-13 17:08:55,2023-03-18 18:19:27,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,13,11
+f8adc477-abaa-4b29-91ce-d50943ca2fcc,iuliana+test138363@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-13 02:49:37,2023-03-18 02:52:06,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,13,11
+7ae089a0-19b5-4478-aba8-0d8f01bad644,iuliana+test809083@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-13 02:36:27,2023-03-18 02:39:50,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,13,11
+f1be0071-096a-4052-a917-31fe3dcbaf7a,iuliana+test156453@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-03-12 08:25:45,2023-03-17 18:29:18,Pro 15K,65,"Campaign name [12 Mar, 2023 - 08:27:35 pm]",df,DRAFT,,2023,3,12,11
+c554a8df-0e1c-494d-acfa-80a8d122208c,iuliana+test453096@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-03-12 03:39:19,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,3,12,11
+388b31da-87e8-4557-af2c-add6ea514b9d,iuliana+test65456460@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-03-10 05:48:55,2023-03-15 05:50:33,Pro 15K,65,"Campaign name [10 Mar, 2023 - 07:58:43 pm]",fgh,DRAFT,,2023,3,10,10
+0ad1246a-2bdb-401d-905d-8d4ade999d9f,iuliana+test686136@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-09 02:38:45,2023-03-14 02:40:00,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,9,10
+15feddea-ad2a-4115-b3a6-f8864e1a0337,iuliana+test778687@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-03-08 02:38:41,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,3,8,10
+ecf2c572-d4a1-47e7-8f48-6296ad18b538,iuliana+test63911@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-07 02:50:39,2023-03-12 03:53:57,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,7,10
+15770cf9-3d2e-4add-8bd9-b889c8c2cc34,iuliana+test520183@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-07 02:37:00,2023-03-12 03:39:26,Pro 15K,65,Campaign263772,SubjectCampaign1,DRAFT,,2023,3,7,10
+4924433f-d6de-4c19-bcfd-ec273fe8464f,iuliana+test980190@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-04 02:46:48,2023-03-09 02:52:42,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,4,9
+aab09232-72e5-4144-80c3-e180dce9ed0d,iuliana+test859902@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-04 02:36:25,2023-03-09 02:38:16,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,4,9
+531168eb-4f40-4026-a548-f7852a8e414b,iuliana+test619705@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-03-03 02:36:00,2023-03-08 02:37:24,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,3,9
+c4ed861f-daf1-426b-9ba9-13e009b2b383,iuliana+test545@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-03-01 12:15:16,2023-03-06 12:17:15,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,1,9
+11e0f9a1-1cb8-4eca-a68a-d3f29dca2be3,iuliana+test4545@tinyemail.com,wfsds,zdcx,ACTIVE,FINISHED,2023-03-01 12:09:48,2023-03-06 12:13:05,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,3,1,9
+88371aa0-845d-4dbf-b37b-0a6e720822b3,iuliana+test757325@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-02-23 02:40:37,2023-02-28 02:42:30,Pro 15K,65,Campaign273752,SubjectCampaign1,COMPLETED,2023-02-23 02:46:24,2023,2,23,8
+52a2c106-16d4-495f-acf8-09eae5c344cf,iuliana+test862745@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-02-23 02:35:06,2023-02-28 02:36:28,Pro 15K,65,Campaign133234,SubjectCampaign1,DRAFT,,2023,2,23,8
+cd791018-1dab-43a8-b3d1-1d5bb0b14638,iuliana+test784334@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-02-22 02:35:09,2023-02-27 02:38:39,Pro 15K,65,Campaign305923,SubjectCampaign1,DRAFT,,2023,2,22,8
+e4bd735d-f8fb-490b-b299-b27ef6b129f1,iuliana+test658839@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-02-21 15:41:05,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,2,21,8
+f79647b9-f43e-4f41-8a26-493f04c9baa9,iuliana+test298688@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-21 15:20:30,2023-02-26 15:21:49,Pro 15K,65,Campaign1,Campaign1,COMPLETED,2023-02-21 15:25:58,2023,2,21,8
+6b5339f4-8cd2-4087-939b-1e2a01e7749a,iuliana+test699344@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-21 13:00:38,2023-02-26 13:01:38,Pro 15K,65,Campaign410037,SubjectCampaign1,COMPLETED,2023-02-21 13:03:26,2023,2,21,8
+025e6406-23cf-4d01-9700-211e52228ddd,iuliana+test952521@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-21 07:01:18,2023-02-26 07:09:06,Pro 15K,65,Campaign318836,SubjectCampaign1,COMPLETED,2023-02-21 07:03:59,2023,2,21,8
+c5253ee6-08a2-4b51-8f03-18eb0dfb693c,iuliana+test446213@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-02-21 06:54:34,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,2,21,8
+09089845-0211-48a0-80d6-7b32d8a7465a,iuliana+test465839@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-21 06:42:41,2023-02-26 06:44:40,Pro 15K,65,Campaign658135,SubjectCampaign1,DRAFT,,2023,2,21,8
+d2a7ca7b-6c0b-4ed0-a81f-c7588c1f6fe6,iuliana+test172719@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-02-02 03:02:58,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,2,2,5
+9aac2880-9639-4182-b27c-5082ba25ff72,iuliana+test327196@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-02 02:54:32,2023-03-01 00:22:21,Pro 15K,65,Campaign137389,SubjectCampaign1,DRAFT,,2023,2,2,5
+f6681ee7-da6d-46bf-9612-9943a8488c82,iuliana+test540631@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-02 02:48:56,2023-03-01 00:22:20,Pro 15K,65,Campaign975405,SubjectCampaign1,DRAFT,,2023,2,2,5
+0df5fd48-ffe6-4daa-aed4-eb5eb12d3eed,iuliana+test971435@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-01 02:55:50,2023-03-01 00:24:52,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,2,1,5
+17da0696-c8da-41a2-bafa-dbe000b0491c,iuliana+test826508@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-02-01 02:51:28,2023-03-01 00:24:51,Pro 15K,65,Campaign764708,SubjectCampaign1,DRAFT,,2023,2,1,5
+48091954-d840-4b8d-b83f-4d392f465eb0,iuliana+test106170@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-02-01 02:49:45,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,2,1,5
+91ef3762-320b-420c-ab9f-f574045f3439,iuliana+test118720@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-02-01 02:42:54,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,2,1,5
+44d65b74-9033-445d-b023-b448825be099,iuliana+test524045@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-31 02:59:41,2023-03-01 00:22:14,Pro 15K,65,Campaign790158,SubjectCampaign1,DRAFT,,2023,1,31,5
+7fcffbe7-29c5-44e2-b50e-0d97a268a087,iuliana+test840893@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-31 02:52:57,2023-03-01 00:22:15,Pro 15K,65,Campaign694877,SubjectCampaign1,DRAFT,,2023,1,31,5
+2e274867-fd37-4cfb-98fb-6dd7a14ec6a4,iuliana+test725701@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-31 02:49:51,2023-03-01 00:24:51,Pro 15K,65,Campaign727072,SubjectCampaign1,DRAFT,,2023,1,31,5
+cc6ca0e6-85a1-44d0-aea7-adc039b76c22,iuliana+test358898@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-31 02:42:50,2023-03-01 00:24:52,Pro 15K,65,Campaign329169,SubjectCampaign1,DRAFT,,2023,1,31,5
+3c397c75-09da-40ab-994c-b61523cc7e40,iuliana+test143152@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-30 03:05:12,2023-03-01 00:22:23,Pro 15K,65,Campaign33064,SubjectCampaign1,COMPLETED,2023-01-30 03:07:25,2023,1,30,5
+8435b5ce-71cf-49ff-bbe2-a1e545e2c19f,iuliana+test414086@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-30 03:00:58,2023-03-01 00:24:54,Pro 15K,65,Campaign889694,SubjectCampaign1,DRAFT,,2023,1,30,5
+ad47ec0f-0cc7-40b1-80aa-a78d9855d44f,iuliana+test832446@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-30 02:53:07,2023-03-01 00:22:31,Pro 15K,65,Campaign939518,SubjectCampaign1,DRAFT,,2023,1,30,5
+46e4091b-3d12-46c1-adca-99c91b8c5917,iuliana+test709928@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-30 02:49:52,2023-03-01 00:22:17,Pro 15K,65,Campaign418949,SubjectCampaign1,DRAFT,,2023,1,30,5
+2f716a6f-8733-40d9-9ba1-a17e41ee093d,iuliana+test455577@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-30 02:42:50,2023-03-01 00:22:20,Pro 15K,65,Campaign611113,SubjectCampaign1,DRAFT,,2023,1,30,5
+e8e85cb0-7b41-4d7b-b710-1f4f22ca5bff,iuliana+test369989@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-29 03:03:46,2023-02-03 03:07:57,Pro 15K,65,Campaign560984,SubjectCampaign1,COMPLETED,2023-01-29 03:05:49,2023,1,29,5
+ebd8a113-8726-4404-97aa-555326882827,iuliana+test641976@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-29 02:59:52,2023-02-03 03:01:32,Pro 15K,65,Campaign604083,SubjectCampaign1,DRAFT,,2023,1,29,5
+863ac3b0-2e90-4464-8001-e4573d7f7ad3,iuliana+test172769@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-29 02:52:31,2023-02-03 02:53:02,Pro 15K,65,Campaign387749,SubjectCampaign1,DRAFT,,2023,1,29,5
+c2f949f1-c557-45b5-80f7-0a8a7d7b7c77,iuliana+test608409@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-29 02:49:31,2023-02-03 02:53:02,Pro 15K,65,Clone of_Campaign261275,SubjectCampaign1,DRAFT,,2023,1,29,5
+3f405a2c-181c-4c71-9b5f-5e1e343f2d58,iuliana+test388386@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-29 02:42:51,2023-02-03 02:43:18,Pro 15K,65,Campaign245886,SubjectCampaign1,DRAFT,,2023,1,29,5
+3cd71d65-627b-4abc-9137-17802b586b4f,iuliana+test224572@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-28 03:04:52,2023-02-02 03:06:32,Pro 15K,65,Campaign177758,SubjectCampaign1,COMPLETED,2023-01-28 03:06:59,2023,1,28,4
+bafab4ca-41a7-4781-8838-cf37352aef5b,iuliana+test721538@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-28 03:00:49,2023-02-02 03:04:30,Pro 15K,65,Campaign197146,SubjectCampaign1,DRAFT,,2023,1,28,4
+618737b1-011c-4ba3-b4d1-8b6efc4600a9,iuliana+test828705@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-28 02:53:02,2023-02-02 02:53:58,Pro 15K,65,Campaign71914,SubjectCampaign1,DRAFT,,2023,1,28,4
+63d8b9b7-7448-49fd-9f04-98e76797dbc3,iuliana+test34238@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-28 02:49:47,2023-02-02 02:51:05,Pro 15K,65,Campaign299765,SubjectCampaign1,DRAFT,,2023,1,28,4
+e6f32d2e-b05c-46a6-9e06-2133bef4f0fb,iuliana+test133812@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-28 02:42:50,2023-02-02 02:43:11,Pro 15K,65,Campaign986094,SubjectCampaign1,DRAFT,,2023,1,28,4
+69009d00-2de6-4876-990c-acf0b5105193,iuliana+test514178@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-27 03:03:28,2023-02-01 03:04:58,Pro 15K,65,Campaign952322,SubjectCampaign1,COMPLETED,2023-01-27 03:05:30,2023,1,27,4
+ed9ebeb5-b703-46b3-a344-5353a337d52f,iuliana+test123379@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-27 02:59:37,2023-02-01 03:01:03,Pro 15K,65,Campaign138690,SubjectCampaign1,DRAFT,,2023,1,27,4
+0c02474b-0e24-496e-b875-7ccc1c3fae14,iuliana+test883736@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-27 02:52:15,2023-02-01 02:53:04,Pro 15K,65,Campaign334852,SubjectCampaign1,DRAFT,,2023,1,27,4
+ba9de3fd-164d-4bb1-9f3e-47085b92dcbf,iuliana+test750626@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-27 02:49:21,2023-02-01 02:50:23,Pro 15K,65,Campaign949244,SubjectCampaign1,DRAFT,,2023,1,27,4
+61e3b61c-12ab-4f66-b0df-e972854286ee,iuliana+test299904@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-27 02:42:48,2023-02-01 02:43:12,Pro 15K,65,Campaign575719,SubjectCampaign1,DRAFT,,2023,1,27,4
+96d65cb3-8550-453d-94a0-5d21f56804ee,iuliana+test149666@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-26 02:59:50,2023-01-31 03:02:03,Pro 15K,65,Campaign979164,SubjectCampaign1,DRAFT,,2023,1,26,4
+f8b655dd-a2e6-4559-b0d9-31de90c605d5,iuliana+test102412@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-26 02:52:29,2023-01-31 02:53:47,Pro 15K,65,Campaign998198,SubjectCampaign1,DRAFT,,2023,1,26,4
+21edd5f7-65a8-47b4-8d27-5fdcab76717d,iuliana+test950147@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-26 02:49:31,2023-01-31 02:52:20,Pro 15K,65,Clone of_Campaign22437,SubjectCampaign1,DRAFT,,2023,1,26,4
+00918ce5-33af-4ef3-a3b2-2161819136fb,iuliana+test758731@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-26 02:42:50,2023-01-31 02:44:52,Pro 15K,65,Campaign842190,SubjectCampaign1,DRAFT,,2023,1,26,4
+291ef20f-990d-40ea-a8a0-44bcf4488a70,iuliana+test555809@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-25 03:03:22,2023-01-30 03:04:49,Pro 15K,65,Campaign140367,SubjectCampaign1,COMPLETED,2023-01-25 03:05:30,2023,1,25,4
+45f3f39e-b0f3-4d88-9690-c2991accb1d5,iuliana+test614499@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-25 02:59:03,2023-01-30 03:03:01,Pro 15K,65,Campaign463178,SubjectCampaign1,DRAFT,,2023,1,25,4
+2bff2ab4-311c-4c8f-8365-fb75daed7911,iuliana+test773262@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-25 02:51:22,2023-01-30 02:53:05,Pro 15K,65,Campaign272411,SubjectCampaign1,DRAFT,,2023,1,25,4
+f08451ef-71ed-4cdf-aeec-6b34b2db4e2d,iuliana+test750890@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-25 02:48:09,2023-01-30 02:49:36,Pro 15K,65,Campaign950298,SubjectCampaign1,DRAFT,,2023,1,25,4
+778db970-6b9b-4f1d-a635-75828852907a,iuliana+test48111@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-24 03:04:52,2023-01-29 03:05:15,Pro 15K,65,Campaign749320,SubjectCampaign1,COMPLETED,2023-01-24 03:06:56,2023,1,24,4
+a9d51613-f861-48b8-b6c9-2c0b089b8ae8,iuliana+test611365@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-24 03:00:54,2023-01-29 03:01:13,Pro 15K,65,Campaign297431,SubjectCampaign1,DRAFT,,2023,1,24,4
+89fff26d-be51-47e3-b401-148f494d3a26,iuliana+test878150@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-24 02:53:11,2023-01-29 02:55:49,Pro 15K,65,Campaign113457,SubjectCampaign1,DRAFT,,2023,1,24,4
+0483cda8-247b-4793-a77d-80fb58aa55f4,iuliana+test347585@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-24 02:49:50,2023-01-29 02:51:00,Pro 15K,65,Campaign127109,SubjectCampaign1,DRAFT,,2023,1,24,4
+7dfcd33c-9ae2-42a1-b28d-c3dedd0080f9,iuliana+test667248@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-24 02:42:50,2023-01-29 02:43:08,Pro 15K,65,Campaign443536,SubjectCampaign1,DRAFT,,2023,1,24,4
+c3a51dff-2ae4-4ba7-bf5b-6974bb0cce7f,iuliana+test949708@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-23 03:04:25,2023-01-28 03:05:20,Pro 15K,65,Campaign777138,SubjectCampaign1,COMPLETED,2023-01-23 03:06:30,2023,1,23,4
+25e23646-37f2-473d-8128-317115ba6a88,iuliana+test371938@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-23 03:00:24,2023-01-28 03:01:50,Pro 15K,65,Campaign625986,SubjectCampaign1,DRAFT,,2023,1,23,4
+7f65e4f8-6b18-4ac8-8a03-d149b1e5e8e9,iuliana+test134842@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-23 02:52:53,2023-01-28 02:57:03,Pro 15K,65,Campaign147016,SubjectCampaign1,DRAFT,,2023,1,23,4
+4d3333c6-5c44-46f8-a14f-d643f46c10d9,iuliana+test194152@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-23 02:49:38,2023-01-28 02:50:00,Pro 15K,65,Clone of_Campaign835123,SubjectCampaign1,DRAFT,,2023,1,23,4
+e50644c3-a1fb-4609-86ce-9665d49acad6,iuliana+test263651@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-23 02:42:50,2023-01-28 02:44:15,Pro 15K,65,Campaign824532,SubjectCampaign1,DRAFT,,2023,1,23,4
+d38e5367-f94e-4db0-8969-44f03a19fdf6,iuliana+test780541@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-22 03:05:15,2023-01-27 03:06:13,Pro 15K,65,Campaign244194,SubjectCampaign1,COMPLETED,2023-01-22 03:07:27,2023,1,22,4
+988cc242-4a10-46a5-98ed-20209dd45244,iuliana+test112854@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-22 03:00:58,2023-01-27 03:06:12,Pro 15K,65,Campaign691307,SubjectCampaign1,DRAFT,,2023,1,22,4
+8099b4a9-3a9f-4147-b72d-dbef741bdd0b,iuliana+test34147@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-22 02:53:03,2023-01-27 02:55:14,Pro 15K,65,Campaign903306,SubjectCampaign1,DRAFT,,2023,1,22,4
+7690f7f8-eaa5-4852-8677-fc6749b027e0,iuliana+test106529@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-22 02:49:47,2023-01-27 02:55:16,Pro 15K,65,Campaign965287,SubjectCampaign1,DRAFT,,2023,1,22,4
+71ad868c-a3bb-4d02-8ddc-1d643a6d4690,iuliana+test9208@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-22 02:42:50,2023-01-27 02:43:25,Pro 15K,65,Campaign701303,SubjectCampaign1,DRAFT,,2023,1,22,4
+2392c65d-1d49-43dc-98b8-7104294e9d56,iuliana+test465832@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-21 03:04:22,2023-01-26 03:06:20,Pro 15K,65,Campaign49763,SubjectCampaign1,COMPLETED,2023-01-21 03:06:25,2023,1,21,3
+63d702b9-8e51-4150-b426-5290b2209ee8,iuliana+test985465@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-21 03:00:19,2023-01-26 03:02:05,Pro 15K,65,Campaign203403,SubjectCampaign1,DRAFT,,2023,1,21,3
+d5a79fca-5d4d-4e09-97ba-66506414f954,iuliana+test34918@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-21 02:52:58,2023-01-26 02:55:49,Pro 15K,65,Campaign783599,SubjectCampaign1,DRAFT,,2023,1,21,3
+4b66a91b-7a85-4645-8bb0-77f5a2d866e1,iuliana+test817994@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-21 02:49:50,2023-01-26 02:50:18,Pro 15K,65,Campaign413254,SubjectCampaign1,DRAFT,,2023,1,21,3
+fa89d82f-b819-462d-9830-e40a6861f1a4,iuliana+test201609@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-21 02:42:51,2023-01-26 02:43:33,Pro 15K,65,Campaign18019,SubjectCampaign1,DRAFT,,2023,1,21,3
+77b54f20-4684-454b-9838-7a45e275740e,iuliana+test827944@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-20 03:04:55,2023-01-25 03:05:10,Pro 15K,65,Campaign993642,SubjectCampaign1,COMPLETED,2023-01-20 03:06:59,2023,1,20,3
+9ea9909e-4573-4fbb-b8a4-4e39a98675ad,iuliana+test825738@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-20 03:00:51,2023-01-25 03:05:12,Pro 15K,65,Campaign305780,SubjectCampaign1,DRAFT,,2023,1,20,3
+28f0755f-a112-4e37-8ee0-7b89a8df0933,iuliana+test789464@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-20 02:53:10,2023-01-25 02:55:04,Pro 15K,65,Campaign604030,SubjectCampaign1,DRAFT,,2023,1,20,3
+1ad73fd9-0488-4682-943e-45398784f343,iuliana+test854569@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-20 02:49:52,2023-01-25 02:55:06,Pro 15K,65,Campaign621311,SubjectCampaign1,DRAFT,,2023,1,20,3
+ccad7ae6-fa12-4f38-801a-b1d8c20e05fe,iuliana+test546989@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-20 02:42:49,2023-01-25 02:44:27,Pro 15K,65,Campaign982555,SubjectCampaign1,DRAFT,,2023,1,20,3
+c005eacd-39bc-44e8-8d1e-14d7a6fe84a7,iuliana+test395963@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-19 05:59:20,2023-01-24 06:03:01,Pro 15K,65,Campaign424630,SubjectCampaign1,DRAFT,,2023,1,19,3
+0d3c4c17-861c-464d-b558-3d7838177307,iuliana+test961223@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-19 05:51:46,2023-01-24 05:54:17,Pro 15K,65,Campaign732685,SubjectCampaign1,DRAFT,,2023,1,19,3
+f0490102-19d4-4b5c-befd-ca1dbfb07f3a,iuliana+test246043@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-19 05:44:02,2023-01-24 05:45:45,Pro 15K,65,Campaign979340,SubjectCampaign1,DRAFT,,2023,1,19,3
+093488d9-b7d9-4baa-9479-58fff3b0f2ff,iuliana+test149113@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-12 04:03:38,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,12,2
+f2ec6cd3-9f64-4ed1-9572-4113ec343534,iuliana+test319209@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-12 02:32:20,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,12,2
+f040c1c1-8219-4974-903d-b34c7a9cdbb2,iuliana+test67657@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-12 02:15:58,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,12,2
+c300cd9e-eba1-4622-9874-586ee1521fab,iuliana+test692953@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-12 02:14:30,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,12,2
+85b46241-9fd1-40ab-a365-44e6e4847ba0,iuliana+test338118@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 15:48:25,2023-01-16 15:55:03,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+3c614182-b8af-4b06-afbe-116ebcde3c56,iuliana+test142298@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 15:26:58,2023-01-16 15:33:30,Pro 15K,65,Campaign909964,"[CUSTOMER_FIRST_NAME], Get a Viking Sword to Be as Strong as Ever",DRAFT,,2023,1,11,2
+1187ec25-6339-4f11-8672-52a15c5ef246,iuliana+test760186@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-11 14:57:55,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+0f1e103a-09b2-4f7d-aeee-78ddebc7de38,iuliana+test100219@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 14:53:51,2023-01-16 15:00:24,Pro 15K,65,Campaign472802,"[CUSTOMER_FIRST_NAME], Get the Sword That Will Make You the Strongest As Ever",DRAFT,,2023,1,11,2
+5c5ec66f-7d56-40d7-aa01-08d9d0010e85,iuliana+test12348@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 14:48:49,2023-01-16 14:51:28,Pro 15K,65,Campaign5791,"[CUSTOMER_FIRST_NAME], Get the Sword that Will Make You Strongest as Ever",DRAFT,,2023,1,11,2
+b901c888-0bb7-41a6-9680-2f210783159e,iuliana+test849104@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 14:44:11,2023-01-16 14:45:36,Pro 15K,65,Campaign821520,"[CUSTOMER_FIRST_NAME], Get the Sword That Will Make You the Strongest Viking Ever",DRAFT,,2023,1,11,2
+41f61796-22e0-4f73-bad3-865c3bde0b2a,iuliana+test74345@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 14:41:59,2023-01-16 14:44:28,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+7908ad6a-b1fe-4fbe-83df-cf682018a261,iuliana+test445725@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-11 14:38:49,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+b1df21a0-7d26-4b31-b8e3-9d4595072b22,iuliana+test410972@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 14:36:39,2023-01-16 14:37:45,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+8f636d80-1e75-463a-a42c-d6de867ad5d2,iuliana+test313601@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 14:34:29,2023-01-16 14:37:45,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+0498dbf3-5087-4b84-aec4-a48ce4aca2f2,iuliana+test69300@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 10:02:34,2023-01-16 10:06:49,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+13e7290d-68da-4fb8-9c7f-bd2ae8c39a45,iuliana+test807841@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 03:46:06,2023-01-16 03:46:38,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+ea03299c-8bca-47be-a222-afdca78feb67,iuliana+test891547@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-11 03:45:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+de858f55-8a86-4a74-bcaa-2e25a5043563,iuliana+test664337@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 03:35:12,2023-01-16 03:43:58,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+626bce4a-fcc7-4f23-8040-a0df386ed20d,iuliana+test21586@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-11 03:33:53,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+9c9bee37-b597-40dc-94df-22e703c04eb6,iuliana+test613013@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-11 03:29:42,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+7b995f60-aadf-4bfd-b860-cf69b78dd18d,iuliana+test698485@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 03:19:01,2023-01-16 03:26:10,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+60fc6b22-81b3-4265-a01b-c4d693e7c43f,iuliana+test173872@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 03:18:02,2023-01-16 03:26:10,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+8eaf3f26-f345-4707-b9f0-9d28482f3796,iuliana+test574974@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 03:16:26,2023-01-16 03:26:11,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+54b19d77-ace2-49c8-a5c1-848295da162a,iuliana+test54652@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-11 03:12:46,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+81f9c86f-449c-4ed4-b546-227f63160fd6,iuliana+test999357@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-11 03:11:53,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+36fee40e-e8a6-4e53-ab23-1456243bf053,iuliana+test346159@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-11 03:06:08,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+0a499396-58a6-48d2-9069-ff6596a456b4,iuliana+test264429@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-11 03:01:58,2023-01-16 03:02:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+35f37fa8-a1d2-411d-8e09-9bd2fbc83837,iuliana+test788797@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-11 03:01:58,2023-01-16 03:02:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+19c0c97a-7b0d-41bf-b9b8-dd61337a0d3a,iuliana+test746909@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-11 02:59:33,2023-01-16 03:02:36,Pro 15K,65,Campaign358661,"Dear [CUSTOMER_FIRST_NAME], You and your family deserve the best protection. With our Viking sword",DRAFT,,2023,1,11,2
+ca378c65-721f-4310-94dc-d9043e934af3,iuliana+test791863@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:57:21,2023-01-11 02:57:35,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+e50d4cfa-fb15-415b-a3e3-a2f42dbc7efb,iuliana+test683163@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:56:03,2023-01-11 02:56:32,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+1961012d-04b2-4716-ab36-8ec665a11d5b,iuliana+test329905@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:53:02,2023-01-16 02:59:30,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+c25b3e43-321a-47d9-a449-9e74ab2a27a9,iuliana+test872116@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:49:11,2023-01-11 02:51:24,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+53526eda-a20c-48b8-9b70-c38ef241c064,iuliana+test658268@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:47:14,2023-01-16 02:48:34,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+01f80648-8af2-4a4b-b841-ed100ea87045,iuliana+test117359@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:44:46,2023-01-16 02:45:40,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+493cd499-82a6-451b-aaf0-76b1f19e6c6d,iuliana+test229715@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-11 02:44:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+123e90fb-53f2-44c2-8e1b-1075afc4cb50,iuliana+test22499@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:39:58,2023-01-16 02:45:40,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+b6cb7f9b-585c-4c1b-93b9-880a79637c9f,iuliana+test337533@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-11 02:36:36,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+cb0c69a6-97a4-4ca7-adc9-ddc6ed3b7537,iuliana+test309752@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:35:31,2023-01-11 02:36:15,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+df14eeb9-c083-4d09-b088-90411d0aa66e,iuliana+test435912@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:34:38,2023-01-16 02:36:57,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+1ae63252-bd14-4840-8b56-927d0404abaa,iuliana+test581470@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-11 02:16:17,2023-01-16 02:18:44,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+98f40645-fa9b-4592-a929-129285d4be8f,iuliana+test196075@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-11 02:14:25,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,11,2
+425ff8c3-1230-43dd-9d47-d4ae216ee305,iuliana+test804169@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 04:31:33,2023-01-15 04:33:57,Pro 15K,65,Campaign510280,SubjectCampaign1,COMPLETED,2023-01-10 04:33:37,2023,1,10,2
+8e7bbeab-cc0e-4212-ad0a-a6f120c6524b,iuliana+test418683@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-10 04:28:50,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+000e82e8-eba5-47a5-94d4-ed2fdda33f29,iuliana+test5623@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 04:22:57,2023-01-15 04:23:56,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+873bd976-ccb9-4f39-8558-d9cf43d985cd,iuliana+test704682@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-10 04:22:06,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+2fe24f38-0f42-4f0b-a05f-31f543e33aa2,iuliana+test669562@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 04:16:51,2023-01-15 04:19:55,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+f29b4696-18ab-4b70-9216-38577d0cc5b6,iuliana+test665223@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-10 04:08:13,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+1bed68d1-0b15-4233-92b9-5427f45bcf6c,iuliana+test996124@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-10 04:07:28,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+0ebbc13e-ccf2-477d-aaab-194da138ec5d,iuliana+test948051@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-10 03:53:17,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+11ba1c9f-b2e9-438c-9761-b2cfaa0db1d1,iuliana+test297797@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:49:16,2023-01-15 03:53:33,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+f7040fb7-f811-4745-b82a-40c0d3d3cbba,iuliana+test548040@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-10 03:48:32,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+8462e81a-5ce4-473b-9f62-b125b92f78ee,iuliana+test406324@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:38:34,2023-01-10 03:39:37,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+daace7ff-0034-4ab2-873e-50ed12600ead,iuliana+test254542@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:37:10,2023-01-10 03:37:46,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+81e8c82c-1188-4b2a-ad52-3735064cc051,iuliana+test972720@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:35:09,2023-01-15 03:36:21,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+e219614f-7b3d-4503-b2e5-02970b784d54,iuliana+test741241@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:33:46,2023-01-10 03:34:20,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+8bf18185-439c-45b9-b530-844905794b5c,iuliana+test613586@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:32:54,2023-01-15 03:36:22,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+2322687e-dfc8-4992-9d0d-94117d5007ef,iuliana+test484623@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:31:31,2023-01-15 03:36:21,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+21a4fb64-9797-4403-8699-25f1e5227667,iuliana+test673633@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-10 03:17:42,2023-01-15 03:18:14,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+13398724-c2cf-4222-ac14-be926adcb1fa,iuliana+test940528@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-10 03:16:58,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+adfd29cb-1a68-42b6-8348-bfcfe0964396,iuliana+test548694@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-10 03:12:07,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+7c2cf7fa-4c9a-4e52-936f-2178774c4f25,iuliana+test488724@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:09:49,2023-01-15 03:10:14,Pro 15K,65,Campaign912253,"Dear [CUSTOMER_FIRST_NAME], You and your family deserve the best protection possible. The Viking sword",DRAFT,,2023,1,10,2
+eda7ab5a-258f-4de0-93ff-740c759bad3e,iuliana+test841978@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:08:06,2023-01-15 03:10:15,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+4783f78e-1094-4a80-9fd3-c2bb14c6adb9,iuliana+test71307@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:04:29,2023-01-10 03:06:39,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+006fd40a-4eda-4ffe-bcb3-8a79081b4dac,iuliana+test239113@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:02:37,2023-01-15 03:04:20,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+879e47c5-0be2-4f6c-a567-a3698ffb63d7,iuliana+test277081@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-10 03:00:19,2023-01-15 03:00:47,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+2a89f519-ae99-4414-8765-f641f4eb8544,iuliana+test507492@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-10 02:59:28,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+12fc411b-dae2-43ab-8e18-60d3412918fd,iuliana+test689816@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-10 02:54:37,2023-01-10 02:55:19,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+844fec6c-b8dd-4767-bce1-aa3800bbf91e,iuliana+test319087@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-10 02:37:09,2023-01-15 02:41:19,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+6830a953-661a-4629-b107-abb7bcc22efc,iuliana+test171279@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-10 02:35:47,2023-01-15 02:41:18,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+2ce6da35-c1e8-46c5-a02d-a75fd070d279,iuliana+test986816@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-10 02:33:20,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+9560c48d-96f4-4e22-9ca8-594b4df11bcf,iuliana+test43971@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-10 02:15:56,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+ec2c7d0a-8192-48e2-bd6b-6a02b9edd75a,iuliana+test344274@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-10 02:14:27,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,10,2
+72e8c465-8f99-4aa8-8b93-ce4a9b7e6a15,iuliana+test456987@tinyemail.com,Iuliana,Lungu,ACTIVE,FINISHED,2023-01-09 12:46:29,2023-01-14 12:53:13,Pro 15K,65,Campaign1,gcf,COMPLETED,2023-01-09 12:53:54,2023,1,9,2
+d4b68d90-e8d2-4998-99cf-43ec39edb6f3,danielav+testQA300@tinyemail.com,Daniela,Vescu,ACTIVE,FINISHED,2023-01-09 12:42:57,2023-01-14 12:45:14,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+0a29215e-9edc-4ad0-be85-362338794f7a,iuliana+test469161@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 04:48:11,2023-01-14 04:49:44,Pro 15K,65,Campaign419231,SubjectCampaign1,DRAFT,,2023,1,9,2
+559e6cb4-355b-48f5-9739-88aa74480ae9,iuliana+test27607@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 04:42:51,2023-01-14 04:45:01,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+b7eb7075-4e60-4013-af2a-ea473a2a7222,iuliana+test203993@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 04:36:59,2023-01-14 04:38:02,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+f70d2c12-287c-4539-bd79-0f195931a37c,iuliana+test913742@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 04:32:25,2023-01-14 04:36:48,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+6f812dfd-ef6a-4c72-a86b-ef2bb7c2a570,iuliana+test100261@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 04:20:22,2023-01-14 04:25:05,Pro 15K,65,Campaign400438,SubjectCampaign1,DRAFT,,2023,1,9,2
+5c8c6c2a-613f-4181-bc4a-f69507deb5fc,iuliana+test360003@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 04:08:43,2023-01-14 04:14:01,Pro 15K,65,Campaign777649,SubjectCampaign1,COMPLETED,2023-01-09 04:10:32,2023,1,9,2
+ac795e12-db0c-4b2a-929f-8d29d3931f25,iuliana+test336738@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:51:05,2023-01-14 03:53:19,Pro 15K,65,Campaign645193,SubjectCampaign1,DRAFT,,2023,1,9,2
+7edad7ff-d660-4e31-8b66-2a21b28e07fd,iuliana+test340086@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:47:20,2023-01-14 03:53:18,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+77739a5b-d8e5-444d-916a-980f5453fb8a,iuliana+test43259@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:45:08,2023-01-09 03:46:16,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+584247ed-c80e-424f-b92f-d2e10e513b5a,iuliana+test193744@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:32:59,2023-01-09 03:33:32,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+53890679-925c-4436-8c3b-d7c74adbfff4,iuliana+test224226@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:31:27,2023-01-09 03:32:15,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+3e27cf23-c30b-4409-9c52-f158633f1cb2,iuliana+test279754@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:29:56,2023-01-09 03:30:40,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+3553afc0-502e-478b-8d8b-a93643f3c67e,iuliana+test251136@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:27:46,2023-01-14 03:37:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+c57c7a96-0185-49fa-9e8a-d2c17b91ee6c,iuliana+test765511@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:26:56,2023-01-14 03:27:19,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+23a469d9-9fa2-48d3-a0fe-68d62d63e11f,iuliana+test477289@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-09 03:25:12,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+bb4243c6-f316-4e68-918c-5e6a4858981f,iuliana+test822184@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-09 03:13:07,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+635220de-772a-4d00-8b2a-504ad422c55c,iuliana+test306070@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:11:45,2023-01-14 03:17:04,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+b2a69d25-6fe2-4c92-9b7d-a57b4bb8e00e,iuliana+test691027@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:06:23,2023-01-09 03:06:50,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+986243b5-73fd-4d88-9ee7-6e0dee21fe1d,iuliana+test944827@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 03:04:24,2023-01-14 03:05:02,Pro 15K,65,Campaign199068,"[CUSTOMER_FIRST_NAME], Get the Viking Sword to Be Strong and Defend Your Family",DRAFT,,2023,1,9,2
+355cce63-ae95-41fc-a530-323d3b8d9778,iuliana+test271229@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-09 03:03:47,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+c2f30522-70f4-4293-b0d9-6722660df10d,iuliana+test849961@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 02:56:57,2023-01-14 03:00:09,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+50137556-1f63-423f-808d-8a1139a944ce,iuliana+test163157@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 02:53:24,2023-01-14 03:00:09,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+33f7d4b4-a11d-45b2-8904-b90059fa603a,iuliana+test172740@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 02:51:56,2023-01-14 03:00:27,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+511e2930-6c4a-43cd-aeea-8450f02ed2ca,iuliana+test52151@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-09 02:51:09,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+3ed215ae-61ee-4a39-98d8-6d09c000e011,iuliana+test415@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-09 02:50:29,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+9cc47a14-98dd-4639-9fd3-b801683ad899,iuliana+test537527@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-09 02:32:11,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+a1908d73-2786-455c-97af-2cf05bc1a13d,iuliana+test816821@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-09 02:30:22,2023-01-14 02:37:29,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+fe49d1a2-7c19-44eb-b566-9c6f26c1442b,iuliana+test13203@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-09 02:14:23,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,9,2
+328d7841-3a1b-4880-9d0e-79e884083b14,iuliana+test480179@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-08 04:23:58,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+3d0ac9b3-edb0-4ce9-b78c-d4ccf0c15664,iuliana+test195009@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-08 04:18:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+505434c3-63da-4ca0-8c41-7efc860929aa,iuliana+test726213@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-08 04:09:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+ef289847-01fc-43da-9f9e-918d22925b5d,iuliana+test263862@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:58:56,2023-01-13 04:00:18,Pro 15K,65,Campaign645725,SubjectCampaign1,COMPLETED,2023-01-08 04:00:48,2023,1,8,2
+f1fb2ded-ff18-40ff-8c2c-8ee72ac7d7e6,iuliana+test951188@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:45:44,2023-01-08 03:46:53,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+9fcaf2d5-5d3c-4cc1-b391-5d5c477407cb,iuliana+test385483@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:34:33,2023-01-08 03:35:38,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+2b250f36-5ad6-41ef-a58a-1c825eb071e5,iuliana+test241401@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:33:08,2023-01-08 03:33:44,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+583729f5-fa1a-4c08-a46a-f87b36a2f358,iuliana+test540729@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:31:46,2023-01-08 03:32:23,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+fb35754a-6286-440e-b8b0-d1ff3e9c1c9f,iuliana+test479524@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:30:41,2023-01-13 03:31:41,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+3adbacb5-ecda-47a1-af0c-4943dccf166e,iuliana+test633253@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:28:43,2023-01-13 03:30:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+fda9e120-c569-49ef-a1d7-29461b99d1b7,iuliana+test441845@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-08 03:17:10,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+e62d19d5-0bf8-4b47-b3df-bf9bf2fb4c1a,iuliana+test154849@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-08 03:16:30,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+bc31b4df-e20a-49e4-b0f3-ca05ecc9cc49,iuliana+test498721@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:11:22,2023-01-08 03:11:48,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+96e9e9fb-7d77-4edc-a154-2a1c49eb85f6,iuliana+test755030@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:09:45,2023-01-13 03:18:16,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+05402658-72a3-4809-945e-cfb8f7877034,iuliana+test938213@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 03:02:49,2023-01-13 03:04:06,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+18797133-096a-41f3-9ac8-02bbf7423976,iuliana+test870323@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 02:59:07,2023-01-08 03:01:23,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+8a2a18ad-a650-4454-8ece-51dfe99bf1fb,iuliana+test985395@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-08 02:58:30,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+ab0a5d9b-239c-4d46-a61a-149067e1dd2b,iuliana+test330917@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-08 02:57:38,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+bf5e3b64-828a-4220-8748-35f3bb9dff2f,iuliana+test685052@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 02:54:56,2023-01-08 02:55:11,Pro Trial,0,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+7c6e0eb0-a487-497c-8445-23abaafb5567,iuliana+test659823@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-08 02:53:17,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+d0c90851-00d8-45cc-8926-f28a95c7435a,iuliana+test609288@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 02:37:05,2023-01-13 02:41:53,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+02b1c05d-0bcb-4cc5-93c9-13494aff297e,iuliana+test714009@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 02:35:18,2023-01-13 02:37:18,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+f455407d-7171-4786-a1c4-d6e1299f638f,iuliana+test40344@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 02:33:43,2023-01-13 02:37:18,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+1a9bfc8f-8a3b-4cab-b932-c89035ae5feb,iuliana+test254825@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 02:31:53,2023-01-13 02:37:21,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+92029e06-f70c-4c67-b3dc-9ae61e120896,iuliana+test312894@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-08 02:14:23,2023-01-13 02:15:39,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,8,2
+9f45f0c2-4d9f-4bb9-ab3f-a50fba93ed0a,iuliana+test179809@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-07 05:11:53,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+cf0f397a-c907-439d-8363-78c475904494,iuliana+test593835@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 04:59:27,2023-01-12 05:09:31,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+5b753ce1-0dab-482d-a1c8-11515d5a3bbe,iuliana+test876664@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 04:53:18,2023-01-12 04:56:54,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+8db56cd3-8649-46e1-bfae-a47d9ba2222e,iuliana+test827987@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 04:43:38,2023-01-12 04:45:12,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+0926e8ef-eca1-46dd-ad99-feba0094308f,iuliana+test73212@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-07 04:41:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+cfb1e336-8afe-4a8e-abf9-ec62ce7fa36b,iuliana+test781330@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 04:15:51,2023-01-12 04:17:36,Pro 15K,65,Campaign140874,SubjectCampaign1,COMPLETED,2023-01-07 04:21:01,2023,1,7,1
+3ff092cf-3d80-41c1-bd47-ad7fe8f35456,iuliana+test107460@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 04:11:54,2023-01-12 04:13:49,Pro 15K,65,Campaign727121,SubjectCampaign1,DRAFT,,2023,1,7,1
+cb9ecfe0-e503-44d4-920f-86b451f6e7a8,iuliana+test987230@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:55:34,2023-01-12 03:56:11,Pro 15K,65,Campaign229940,SubjectCampaign1,DRAFT,,2023,1,7,1
+d337e8d3-8fd6-44d1-b3ee-a9e3a1e8c483,iuliana+test479669@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:51:46,2023-01-12 03:56:14,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+4e42e7d2-8f12-4376-87f8-66021d51c177,iuliana+test90501@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-07 03:50:57,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+7057fa33-fa2d-40f2-8915-40dd7629d383,iuliana+test512202@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:39:37,2023-01-07 03:40:36,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+b2a15142-6ed6-4680-964a-c0156ecf62ad,iuliana+test423015@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:38:06,2023-01-07 03:38:48,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+bef21bce-7f48-4654-a89c-87b1d89de2b1,iuliana+test863781@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:36:52,2023-01-07 03:37:25,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+40d5e2bb-55dc-46ec-9fb4-4807ea04b683,iuliana+test883552@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:35:25,2023-01-07 03:36:00,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+630c21fe-6043-4dcc-b44b-d64daf41190b,iuliana+test381524@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:34:37,2023-01-12 03:35:46,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+e9b89550-5cc6-45dd-ac84-13aadde8361e,iuliana+test518972@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:33:20,2023-01-12 03:35:49,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+00c339d7-7c9a-4b37-8938-cea9e6a54916,iuliana+test906839@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-07 03:20:58,2023-01-12 03:26:42,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+921eda64-c426-4454-9811-dd046b24c78c,iuliana+test262746@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-07 03:20:22,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+d7b92229-3b81-458b-8137-7a5957ae3d26,iuliana+test442522@tinyemail.com,Kalomira,LastName,LATE_TRIAL,FINISHED,2023-01-07 03:15:55,2023-01-12 03:17:00,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+9e060dfa-2c96-4aec-95d7-130caca4a271,iuliana+test179467@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:14:36,2023-01-07 03:15:11,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+4879eef5-f304-4a62-8c2a-28ff9cd3c92a,iuliana+test234693@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:12:33,2023-01-12 03:16:48,Pro 15K,65,Campaign788709,"[CUSTOMER_FIRST_NAME], Get the Sword that Will Make You the Strongest Viking Ever",DRAFT,,2023,1,7,1
+6032b1f4-bf7a-4481-817c-15ad92b24e7b,iuliana+test37702@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:10:01,2023-01-12 03:11:26,Pro 15K,65,Campaign758338,"[CUSTOMER_FIRST_NAME], Get the Sword that Will Make You Strongest as Ever",DRAFT,,2023,1,7,1
+61980727-9dce-4fac-bba0-888a12a12cb0,iuliana+test131264@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:08:31,2023-01-12 03:11:25,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+1b1d6390-5110-449c-a4ca-ec03b5e40218,iuliana+test716100@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:04:55,2023-01-07 03:07:02,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+91d293fd-f75b-48c4-821d-6b2e0cf71ca9,iuliana+test407463@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:03:03,2023-01-12 03:03:54,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+4e4b2926-f1ab-4f34-a447-3b5bad3fdca6,iuliana+test748757@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 03:00:52,2023-01-12 03:03:54,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+34843bb7-35b3-4c89-a8de-ae3b9ac4ef38,iuliana+test456506@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-07 03:00:11,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+8b2dc2eb-dce4-40fc-bd90-eaf27b77d6f3,iuliana+test898362@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-07 02:59:31,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+4380dfe2-70ec-4c17-9c8d-2e8ba7d6daf8,iuliana+test360660@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 02:57:56,2023-01-12 03:03:54,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+2840504a-dd09-4d3e-981b-d07074e3dbe0,iuliana+test391783@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 02:54:13,2023-01-07 02:54:55,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+54e39091-bd98-4393-9b34-530f15937708,iuliana+test667181@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 02:37:39,2023-01-12 02:38:43,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+649b991b-0d05-4c64-a2b9-b566b7877a48,iuliana+test478324@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 02:35:25,2023-01-12 02:38:41,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+b83def97-7fda-4387-9583-0df7e53f6e16,iuliana+test922114@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-07 02:33:43,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+62c40f3f-6255-4671-b2b8-3dfba0a4612d,iuliana+test992303@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 02:31:52,2023-01-12 03:34:18,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+7dde0155-1d45-462d-ab88-26ddcd924ecf,iuliana+test78853@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-07 02:15:41,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+d220d84c-4330-4093-89cf-d59534f1f8e9,iuliana+test716923@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-07 02:14:20,2023-01-12 02:17:53,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,7,1
+9953db5d-7e94-4ebf-98a0-9b942feaa45e,iuliana+test416052@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:43:12,2023-01-11 04:46:25,Pro 15K,65,Campaign464706,SubjectCampaign1,COMPLETED,2023-01-06 04:48:25,2023,1,6,1
+88d3bd1a-1e5a-4bc6-884f-1386af2798f8,iuliana+test85924@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:41:58,2023-01-11 04:46:24,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+bc6d1961-e712-474f-90a2-2adbcf138733,iuliana+test67295@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:34:56,2023-01-11 04:39:24,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+d1c36008-0d67-47bf-91e6-d488aa72b232,iuliana+test204099@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:29:45,2023-01-11 04:31:01,Pro 15K,65,Campaign301156,SubjectCampaign1,COMPLETED,2023-01-06 04:31:26,2023,1,6,1
+1914aafa-b7d8-4335-a127-d725615b3a86,iuliana+test646857@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:25:15,2023-01-11 04:31:00,Pro 15K,65,Campaign520896,SubjectCampaign1,DRAFT,,2023,1,6,1
+27643f0e-1309-4c45-8eda-d62563e4afe1,iuliana+test181421@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:24:38,2023-01-11 04:30:58,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+41b2a7ef-8b69-418b-9cec-455eb949ff91,iuliana+test223443@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-06 04:23:05,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+c349bf41-cb03-4027-b681-d00924ba13f1,iuliana+test696685@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:19:26,2023-01-11 04:22:55,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+1188ff04-669c-4431-956d-e9d31b3f8345,iuliana+test35954@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-06 04:18:06,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+c2b1e595-e035-4302-9ace-c6289c75f6d6,iuliana+test127527@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 04:02:17,2023-01-11 05:06:41,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+1ecdd2ec-6aba-4b07-b8a1-b85baa7ccf28,iuliana+test839053@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-06 04:01:32,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+97040cf7-ef26-4fcb-9007-a626ae2e3a96,iuliana+test467584@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:46:12,2023-01-11 03:48:01,Pro 15K,65,Campaign429137,SubjectCampaign1,DRAFT,,2023,1,6,1
+e767fd26-bb8e-41bc-90da-7f875b57b2f6,iuliana+test656245@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:42:05,2023-01-06 03:43:11,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+cb556cdc-3020-42b3-9b04-2597039ee8b0,iuliana+test389215@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:29:42,2023-01-06 03:30:55,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+7280b3d1-ad02-4ec7-8091-c3b16b44fd0e,iuliana+test464012@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-06 03:27:18,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+5e842a3f-fc13-4282-a59c-39fdd8afbe57,iuliana+test302791@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:25:13,2023-01-11 03:32:03,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+b73468c1-40e1-495d-ad90-81de82d2df40,iuliana+test447390@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:24:22,2023-01-11 03:32:03,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+c7c9419b-4edd-4df9-90c9-7d7b1496c26b,iuliana+test416265@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:22:58,2023-01-11 03:23:26,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+8f49add7-c13d-4d3e-86e3-071e7e5c496f,iuliana+test658427@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-06 03:11:16,2023-01-11 03:18:19,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+b51b5a1e-536c-464e-9bf0-979024807251,iuliana+test121205@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-06 03:07:19,2023-01-11 03:18:20,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+24f56af2-d964-4434-8b5b-1f76255eecd3,iuliana+test242674@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:02:50,2023-01-06 03:03:06,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+4d6520e1-9189-4518-a732-eaf2e56c60ab,iuliana+test44199@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 03:01:28,2023-01-11 03:18:20,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+f3af18af-3e61-4808-9374-507e028d039f,iuliana+test694424@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-06 03:00:31,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+f4770b08-4e33-4992-9139-b7d5c53d5355,iuliana+test568885@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-06 02:57:09,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+ac7cb122-fd66-4655-95ef-899911582b2b,iuliana+test854296@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 02:55:23,2023-01-06 02:56:09,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+5132bd9a-05da-4b5d-96f0-e36dab62a94e,iuliana+test309599@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-06 02:54:35,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+e90ec51b-8333-4c0e-8de2-0caaacdd3030,iuliana+test430722@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-06 02:53:48,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+9664bded-868a-4a2e-9012-7dadb7241f79,iuliana+test577015@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-06 02:53:10,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+f15fb734-b7da-408f-9e43-ccb467f38928,iuliana+test875277@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 02:35:08,2023-01-11 03:39:08,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+14593e87-9154-4008-b86e-fe78d917cf23,iuliana+test724770@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 02:31:20,2023-01-11 02:31:55,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+d87a646a-70e7-4fbe-b554-571db14afd70,iuliana+test688131@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-06 02:14:27,2023-01-11 02:17:08,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,6,1
+e214f376-4848-4d78-a6e3-cb31c39f47ca,iuliana+test531689@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-05 04:52:18,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+cb96ed21-cefc-49e6-8b6e-25039540088a,iuliana+test24474@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-05 04:48:24,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+75f64522-2505-4379-88db-fe7c881e2be5,iuliana+test65589@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 04:42:40,2023-01-10 04:54:11,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+0f155604-fddc-441d-8a06-2fa88c823eca,iuliana+test678898@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-05 04:41:46,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+290a98d8-c8a8-42ce-850d-f76c85f188c0,iuliana+test264983@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 04:35:53,2023-01-10 04:40:32,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+49c60d8d-a37c-426f-b3af-053b3cb03266,iuliana+test95452@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 04:26:09,2023-01-10 04:26:49,Pro 15K,65,Campaign37149,SubjectCampaign1,DRAFT,,2023,1,5,1
+d43db989-07f6-4eaf-9d73-35592d21eac4,iuliana+test245143@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-05 04:11:39,2023-01-10 05:16:59,Pro 15K,65,Campaign186490,SubjectCampaign1,COMPLETED,2023-01-05 04:13:29,2023,1,5,1
+cfd621e7-8b2e-4642-8615-0db4ee26f0f4,iuliana+test848454@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-05 03:57:59,2023-01-10 04:00:42,Pro 15K,65,Campaign546416,SubjectCampaign1,DRAFT,,2023,1,5,1
+e147bbce-4512-485b-958c-7e52d91ab9e5,iuliana+test107665@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-05 03:54:07,2023-01-10 04:00:40,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+d9b24060-7bdb-45c9-8f77-c75904760f53,iuliana+test134671@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-05 03:53:18,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+15e5c7a0-122b-4914-9d29-c463154ea46b,iuliana+test558142@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 03:41:33,2023-01-05 03:42:29,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+8400169c-eb88-4260-9c48-6be29036276d,iuliana+test785376@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-05 03:40:09,2023-01-05 03:40:47,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+b0f94aba-400c-4ce6-80fa-89f19bff1b1c,iuliana+test815873@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-05 03:38:49,2023-01-05 03:39:25,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+d9c6c8a3-13f4-4727-b61e-5ca9c94d6baa,iuliana+test748957@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-05 03:37:18,2023-01-05 03:37:55,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+9163de4a-601b-4297-a08d-5d6284185fb8,iuliana+test575034@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 03:36:22,2023-01-10 03:41:18,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+5edd16b0-73f4-4d0f-97e5-091abfa7b4ca,iuliana+test602287@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-05 03:34:43,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+071fb43a-627e-4623-8d6a-61a34c8a1722,iuliana+test212857@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-05 03:18:44,2023-01-10 03:21:58,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+3f5384de-b2c1-4da3-b636-56823219509a,iuliana+test183624@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 03:13:54,2023-01-05 03:14:08,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+97edba0b-20d2-4237-94fa-67ad35d4923c,iuliana+test88847@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 03:12:38,2023-01-05 03:13:06,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+58502dfb-dd15-4034-8a08-6a1c48aab1ed,iuliana+test77480@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 03:10:29,2023-01-10 03:11:02,Pro 15K,65,Campaign550518,"[CUSTOMER_FIRST_NAME], Defend your family with a Viking Sword",DRAFT,,2023,1,5,1
+940a517b-77e6-4fc1-a756-61f8ba13e6cd,iuliana+test894851@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-05 03:09:52,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+53edf009-b066-423e-99a3-a5cde6723fbf,iuliana+test928019@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 03:03:16,2023-01-10 03:11:03,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+0b7c90e6-5f26-4d84-b8fb-f2792718621b,iuliana+test891036@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-05 02:59:46,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+76c2e06b-3404-4392-8eac-7660fe72c0f8,iuliana+test833808@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 02:56:02,2023-01-10 02:59:46,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+2dc731ea-ade8-4132-9364-427e4241e150,iuliana+test247365@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 02:52:18,2023-01-05 02:53:02,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+dfb54e72-89b8-42a4-9fd4-380bdb5f755d,iuliana+test889102@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-05 02:51:26,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+bc81d7c1-e01b-47c8-981d-423572d18923,iuliana+test197206@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-05 02:33:28,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+d761ce2d-14e2-4dcd-bfc1-f603cc940d24,iuliana+test305770@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-05 02:31:45,2023-01-10 02:36:37,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+e60eaccb-143b-4e3e-8bc8-08cebf486012,iuliana+test658849@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-05 02:14:19,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,5,1
+b1a23527-b466-4f5a-b825-9898e44d648e,iuliana+test205554@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-04 04:49:00,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+553aa5e0-0b49-4a79-80e0-d724031b7767,iuliana+test464525@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-04 04:46:14,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+ff22672f-df6d-4fa1-9744-f772bb868c06,iuliana+test150760@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 04:40:58,2023-01-09 04:43:57,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+2ef20622-8187-4c36-aa37-7dcdc748625f,iuliana+test731609@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 04:35:49,2023-01-09 04:43:54,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+f9eab7f8-77e5-49fc-8aa7-11afe57240ec,iuliana+test608570@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 04:08:53,2023-01-09 04:18:45,Pro 15K,65,Campaign827156,SubjectCampaign1,COMPLETED,2023-01-04 04:14:08,2023,1,4,1
+2fed3da2-46da-44d7-bea2-c3308adb8ef7,iuliana+test691348@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-04 04:07:06,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+b164f046-7863-4027-80a6-999f65575d79,iuliana+test333331@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-04 03:50:08,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+d2a286a1-80d1-4bc4-a38e-ede94ead1496,iuliana+test968404@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-04 03:48:26,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+972a18da-0441-4eec-93f6-75d62c361f12,iuliana+test853339@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:37:45,2023-01-04 03:38:50,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+c1dc18fc-3173-4318-9c92-3fe18d4728fc,iuliana+test128505@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:36:17,2023-01-04 03:37:01,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+eb1f1ce8-44cf-4335-a76e-8b33bd36e03a,iuliana+test821247@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:34:16,2023-01-09 03:36:02,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+dceb01ed-a37c-45cd-8e33-590a68eef494,iuliana+test855596@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-04 03:32:37,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+2557d735-f77c-4638-b540-d43463d213fb,iuliana+test677143@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:31:48,2023-01-09 03:36:02,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+e3163b05-cd20-42dc-b3c6-cc334353412c,iuliana+test49746@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:30:34,2023-01-09 03:36:04,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+593b93f8-c468-4d55-9159-f0f0eb044567,iuliana+test793812@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-04 03:15:47,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+c8afb2b4-a3e8-4f61-b8b6-73d851d62cf6,iuliana+test614348@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:11:36,2023-01-04 03:11:49,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+d3f4afa8-b256-4ed4-97cb-367d38c257f2,iuliana+test950121@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:10:21,2023-01-04 03:10:47,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+bb4a6816-fe50-42d0-a3f5-9aa1bb855d6e,iuliana+test552085@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:08:18,2023-01-09 03:11:24,Pro 15K,65,Campaign971382,"[CUSTOMER_FIRST_NAME], Get the Viking Sword to Defend Your Family",DRAFT,,2023,1,4,1
+89e6ab93-78e7-4113-842a-146931f8c67a,iuliana+test488172@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 03:04:58,2023-01-09 03:08:10,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+7c28f5dd-beab-4256-8148-bbf8015abc7c,iuliana+test592108@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 02:58:32,2023-01-09 03:00:06,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+cae005a9-ff1d-4604-9cf3-d0cb702f32e4,iuliana+test883240@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-04 02:57:39,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+f0bd1da8-9e87-44c8-8275-d66aafad1260,iuliana+test395199@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-04 02:57:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+3c19d44e-10e3-468e-8d52-34dd67d0328e,iuliana+test982794@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-04 02:37:13,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+88bc3d11-33e3-4c8e-a2c6-840c60673e19,iuliana+test52675@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-04 02:35:01,2023-01-09 02:42:46,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+7ecd5f3e-a863-49d2-9be1-4a1a2eb5eca3,iuliana+test691093@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-04 02:33:22,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+f081e8ec-7003-4ff8-8221-62e015229878,iuliana+test397272@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-04 02:31:45,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+0f73da03-dee8-4edd-8c30-93d023910b7f,iuliana+test731847@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-04 02:14:21,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,4,1
+1df80f5b-1bec-49d2-8e77-8ea6a87b7181,iuliana+test731730@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 04:59:13,2023-01-08 05:04:16,Pro 15K,65,Campaign977129,SubjectCampaign1,COMPLETED,2023-01-03 05:01:17,2023,1,3,1
+06fb7af5-203e-4eef-94c5-35718fcf9a35,iuliana+test474429@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 04:47:01,2023-01-08 04:47:45,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+0a7a7a2a-df1f-45cf-896d-7e6dfde1af21,iuliana+test222822@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-03 04:45:40,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+a654ffa2-b4f0-44df-9fc8-0dc63bf0c515,iuliana+test139768@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 04:39:51,2023-01-08 04:44:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+018a1f55-e9d3-4eba-97c1-ebe57ae27f0f,iuliana+test527629@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-03 04:29:37,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+6d653c3d-edf0-4892-a4d1-77903be1c9a3,iuliana+test51490@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 04:20:08,2023-01-08 04:24:16,Pro 15K,65,Campaign968278,SubjectCampaign1,COMPLETED,2023-01-03 04:21:57,2023,1,3,1
+4d351484-a9dc-4203-973c-292a6febfeaf,iuliana+test661374@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 04:00:59,2023-01-08 04:10:31,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+ce43392e-2215-4d56-a149-6d1d124e2e71,iuliana+test361788@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:58:47,2023-01-03 03:59:51,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+31b750ee-7508-4b20-99a1-d52f31e298ca,iuliana+test723522@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:47:12,2023-01-08 03:51:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+73ee7aa7-56a9-4cbd-9fd2-6726f94473bb,iuliana+test844178@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:36:34,2023-01-08 03:41:28,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+a91483fe-3d34-4bb7-8cdb-80c2bdc26b69,iuliana+test60118@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:35:47,2023-01-08 03:41:26,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+0d69bd8f-f582-4fab-a73b-a46efbd6cce4,iuliana+test968859@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:34:32,2023-01-08 03:41:28,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+f77e2957-a194-4a4c-b40e-7df9bfc7ce10,iuliana+test336318@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-03 03:23:06,2023-01-08 03:25:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+f093a331-0431-4795-aedb-b53d43f1fab5,iuliana+test363879@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-03 03:19:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+2900d2b6-4495-4c97-a3ec-b20b5198420a,iuliana+test493630@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:17:43,2023-01-03 03:18:17,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+075d40aa-aa06-4b8b-a080-29680fb7217a,iuliana+test356558@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:15:31,2023-01-08 03:19:07,Pro 15K,65,Campaign602636,"[CUSTOMER_FIRST_NAME], Get the Sword That Will Make You the Strongest Viking Ever",DRAFT,,2023,1,3,1
+9172f99d-9501-47ea-bea5-7d43bb7356f0,iuliana+test457657@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-03 03:14:41,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+9e92f878-8337-4cdf-b816-055d5eea5348,iuliana+test567032@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-03 03:12:57,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+17bc965d-04ab-496b-a698-1c95e51e5dcd,iuliana+test287230@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:09:26,2023-01-03 03:11:32,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+55afa27c-c488-49ea-964c-3cbc26c4a4fe,iuliana+test742236@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:07:43,2023-01-08 03:08:14,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+f4856344-cb65-4794-842a-2b20a08813a2,iuliana+test911614@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:05:36,2023-01-08 03:08:14,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+845ebdb1-1763-49b3-a69f-344a13d043cb,iuliana+test15668@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 03:00:46,2023-01-03 03:01:39,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+7b82616e-d31f-4655-9a47-c66e0001f26b,iuliana+test434087@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 02:55:51,2023-01-08 02:59:41,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+dc2809e6-1e7b-4e97-a438-5947393dea75,iuliana+test835304@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 02:38:33,2023-01-08 02:46:09,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+a75eb2ab-9d09-4574-b828-c824fde5fa12,iuliana+test725243@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 02:36:44,2023-01-08 02:46:07,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+bb2ddb13-adf6-4926-953e-8b163d7dc16d,iuliana+test557333@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 02:34:56,2023-01-08 02:36:58,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+97236dad-201c-4c7b-8866-d52aaa3d5a0c,iuliana+test281963@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 02:32:10,2023-01-08 02:33:48,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+18045248-8d52-452e-92c5-3dd322fbe3fd,iuliana+test119603@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-03 02:16:12,2023-01-08 05:17:24,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,3,1
+3949609b-7e74-473e-a1e3-ad701f919299,iuliana+test901372@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 04:40:34,2023-01-07 04:43:32,Pro 15K,65,Campaign307722,SubjectCampaign1,DRAFT,,2023,1,2,1
+baf46800-00b1-4798-a470-f215875a4e99,iuliana+test321694@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-02 04:35:56,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+24a439e8-ed1f-4ec4-8078-b91ca635450d,iuliana+test888367@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-02 04:34:35,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+bb962708-2d6f-4820-9581-d5246cdfe457,iuliana+test135681@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 04:08:27,2023-01-07 04:12:27,Pro 15K,65,Campaign236976,SubjectCampaign1,COMPLETED,2023-01-02 04:12:57,2023,1,2,1
+6df6f588-d9d4-4713-b82a-7fa24931ea4e,iuliana+test334002@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:56:41,2023-01-07 03:58:20,Pro 15K,65,Campaign686508,SubjectCampaign1,COMPLETED,2023-01-02 03:58:36,2023,1,2,1
+c9e1699c-2705-4151-b219-ae50354e0e88,iuliana+test726126@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-02 03:46:15,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+d73da3aa-1ddc-4fbc-ac95-c93dd317cfae,iuliana+test989199@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:42:47,2023-01-07 03:48:05,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+de4817e5-82c2-4b74-b22a-9856b9560191,iuliana+test675315@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:40:39,2023-01-02 03:41:44,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+45ec3c79-66a4-4f9e-a837-5309c06f2c40,iuliana+test466957@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:30:25,2023-01-02 03:31:19,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+cf56e635-3abb-4482-8730-5ed7510e10d4,iuliana+test846030@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:29:13,2023-01-07 03:31:29,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+0efb054d-6f92-487e-815c-ef7fd369be6f,iuliana+test198762@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:27:59,2023-01-02 03:28:30,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+0500cd70-930c-4bcd-b3c7-4e311314527f,iuliana+test483805@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:26:40,2023-01-02 03:27:14,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+2944ad11-9e22-40b2-91f3-1671f3ddfbdf,iuliana+test787977@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:25:50,2023-01-07 03:31:32,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+cd0b043e-75ba-42c1-9509-c410b4310e26,iuliana+test84647@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:24:34,2023-01-07 03:31:33,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+8edde255-3435-443c-b015-65cdaf78604e,iuliana+test323157@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-02 03:14:37,2023-01-07 03:22:19,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+b0a7e7bd-a02f-4885-a60c-9d922df88331,iuliana+test500770@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:13:09,2023-01-07 03:13:25,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+bdf1d411-f3c4-44f7-a282-848a35f915d1,iuliana+test70311@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:08:51,2023-01-02 03:09:09,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+a3e58f07-10b2-4fbe-aaec-a70fca54964a,iuliana+test474519@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:07:38,2023-01-02 03:08:07,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+8f116bc8-d016-432d-a65f-a22859effac6,iuliana+test318703@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:05:40,2023-01-07 03:07:57,Pro 15K,65,Campaign54958,"[CUSTOMER_FIRST_NAME], Get the Viking Sword to Defend Your Family",DRAFT,,2023,1,2,1
+f58d347c-2141-46c8-ac53-9b26e58db3d1,iuliana+test448526@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 03:03:19,2023-01-07 03:05:10,Pro 15K,65,Campaign59138,"[CUSTOMER_FIRST_NAME], Defend your family with a Viking Sword",DRAFT,,2023,1,2,1
+dc54ef89-7c8d-4c42-b97b-07205967013f,iuliana+test691862@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-02 03:02:28,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+4c291995-f61d-42cb-95a9-037671829bb0,iuliana+test589290@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 02:59:58,2023-01-07 03:05:10,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+3d444380-affd-48bf-bb4f-e074ba2bbb9e,iuliana+test894234@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 02:57:51,2023-01-07 02:59:21,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+3e70dfd0-ee31-479f-907d-93db6546e4b4,iuliana+test530225@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 02:53:11,2023-01-02 02:53:55,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+15e17386-00cf-4fdf-bdbe-660fa2ac2bc5,iuliana+test460504@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-02 02:52:31,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+f5c5d501-8137-4ff7-b38c-d3d493669455,iuliana+test565972@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-02 02:51:42,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+c48e51a6-4b90-4dc1-bfe8-d8feaaf7e052,iuliana+test793782@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-02 02:51:04,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+16cbf5b6-9bb7-4681-a118-b600436f8a30,iuliana+test641526@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 02:31:37,2023-01-07 02:35:52,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+e0532737-447e-46cd-b258-783038a12c19,iuliana+test121706@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-02 02:14:38,2023-01-07 03:16:55,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,2,1
+659784e2-e69a-41c6-a38d-9b47cfe45f2a,iuliana+test174568@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 04:32:37,2023-01-06 04:36:00,Pro 15K,65,Campaign76747,SubjectCampaign1,COMPLETED,2023-01-01 04:34:34,2023,1,1,1
+89bf6174-98a2-4e0a-9d2d-489f7c304f23,iuliana+test480052@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 04:26:21,2023-01-06 04:36:01,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+9bf24472-5ee0-49be-a206-64b967352cd1,iuliana+test37204@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 04:20:35,2023-01-06 04:35:59,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+4386d6de-5aa8-4ee0-b830-2762ca5c147b,iuliana+test359564@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-01 04:19:57,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+a41469a8-1cdb-45db-9ab8-17f1a2745021,iuliana+test577055@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 04:14:48,2023-01-06 04:17:09,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+e198ebfc-7660-4528-bbcb-fe79741c483e,iuliana+test673358@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-01 04:03:18,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+918f8e54-73b2-42ca-a1be-fd1d03289297,iuliana+test887022@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-01 03:58:44,2023-01-06 04:02:01,Pro 15K,65,Campaign838424,SubjectCampaign1,COMPLETED,2023-01-01 04:00:30,2023,1,1,1
+3e676e41-ab76-4a9c-b2d1-5dfc62881cf9,iuliana+test225390@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-01 03:45:19,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+8159b1e9-5cde-413f-b7e9-b0c739b1fc9e,iuliana+test623721@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-01 03:43:22,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+5510330a-e299-4eff-bbd3-53b771e57808,iuliana+test885741@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-01 03:34:45,2023-01-01 03:35:40,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+a25492a1-af94-42bc-84a0-80e364b4f922,iuliana+test332392@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-01 03:33:26,2023-01-01 03:34:00,Standard 15K,15,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+78686487-22de-4eba-b7d2-9fc127d0706b,iuliana+test922409@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 03:32:07,2023-01-01 03:32:41,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+63c8f4a0-ca12-4d5c-9064-d9b7998d325f,iuliana+test608677@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 03:29:57,2023-01-06 03:33:14,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+7a8f08c0-aeae-4439-ae79-d3292080183d,iuliana+test470520@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-01 03:28:42,2023-01-06 03:33:15,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+2a9ad373-797d-4fac-b33d-8920d6b131d0,iuliana+test220530@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-01 03:21:17,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+89bea154-894b-42ae-9fd0-887ef2931019,iuliana+test201226@tinyemail.com,Kalomira,LastName,FROZEN,FINISHED,2023-01-01 03:17:22,2023-01-06 04:27:57,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+35808449-9c83-4043-9a27-f90b2fe73c49,iuliana+test227410@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 03:12:58,2023-01-01 03:13:13,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+edc61087-052f-4b92-8a54-5238d6e904e3,iuliana+test59359@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-01 03:11:15,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+83256f2b-0f20-45e3-b228-f2158f963d85,iuliana+test880562@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-01 03:09:39,2023-01-06 03:11:36,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+c8b26553-44ce-40e2-9c53-621c788231fb,iuliana+test910107@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-01 03:08:00,2023-01-06 03:11:36,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+6684a2ba-eddb-41f4-a631-d9acec890f8b,iuliana+test816292@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 03:01:36,2023-01-06 03:02:53,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+18b96f3d-e368-4faa-be4c-7896451a7daf,iuliana+test167745@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 02:57:07,2023-01-01 02:59:19,Free,0,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+c6b1f081-2570-4079-bfb2-d883183265c0,iuliana+test996966@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-01 02:56:20,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+5c71e185-5718-45b0-be34-57b56c1132eb,iuliana+test302799@tinyemail.com,Kalomira,LastName,ACTIVE,IDENTITY_CREATED,2023-01-01 02:55:35,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+1b839e75-e32b-40bd-8eb0-3b94d4994bdf,iuliana+test960485@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2023-01-01 02:52:42,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+3a68cd7b-d7a8-473e-8723-76e7f763cdc8,iuliana+test351327@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-01 02:52:02,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+f9627d07-da12-4429-a313-3bb276edcc2d,iuliana+test518746@tinyemail.com,Kalomira,LastName,CANCELED,FINISHED,2023-01-01 02:35:23,2023-01-06 02:41:59,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+930b6750-37fc-400b-85eb-8146187c991f,iuliana+test442283@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 02:34:13,2023-01-06 02:41:59,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+f6535045-4592-4a8c-b470-691cc11ebd06,iuliana+test246357@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2023-01-01 02:32:19,2023-01-06 02:33:30,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+7c0614b1-4c52-4dd5-9915-dfd22a607b7b,iuliana+test49609@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2023-01-01 02:14:27,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2023,1,1,1
+120de28d-353a-4852-8c1b-e055321d4cfe,iuliana+test183543@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2022-12-31 05:03:19,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
+e9624eeb-b23d-41e6-a6f5-9a7da35d449f,iuliana+test173530@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 04:58:11,2023-01-05 05:02:54,Pro 15K,65,Campaign175682,SubjectCampaign1,DRAFT,,2022,12,31,53
+75ecd5da-375c-4b8c-b6f8-195fef751f35,iuliana+test154321@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 04:51:39,2023-01-05 04:55:29,Pro 15K,65,Campaign959311,SubjectCampaign1,DRAFT,,2022,12,31,53
+3b343c6a-bb7d-43c8-9fba-021b9c877500,iuliana+test130396@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2022-12-31 04:50:06,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
+071117a3-de3c-484a-9f01-99938ff292fd,iuliana+test999008@tinyemail.com,Kalomira,LastName,ACTIVE,ACCOUNT_CREATED,2022-12-31 04:47:34,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
+f0deb61a-04d7-42b7-9360-0ee3421c0e72,iuliana+test428112@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 04:41:40,2023-01-05 04:49:14,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
+c04a61ab-86f1-4e1c-b3d7-acb9e3391a82,iuliana+test932306@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 04:32:09,2023-01-05 04:33:45,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
+bc699b8d-ed21-49a5-a764-080f0277efda,iuliana+test808474@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 04:27:01,2023-01-05 04:27:35,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
+b47e221b-5e9e-49da-97eb-f3348aeacaa5,iuliana+test497952@tinyemail.com,Kalomira,LastName,ACTIVE,INTEGRATION_ADDED,2022-12-31 04:15:42,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
+c40232e2-ff26-4cb1-a6d2-02bbcdfbda5a,iuliana+test32001@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 04:09:47,2023-01-05 04:10:50,Pro 15K,65,Campaign131753,SubjectCampaign1,DRAFT,,2022,12,31,53
+56cb2460-1615-43ba-92f2-e0460f54b361,iuliana+test201391@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 03:54:43,2023-01-05 03:59:34,Pro 15K,65,Campaign101285,SubjectCampaign1,DRAFT,,2022,12,31,53
+3390fc4e-3802-4b0b-ae8b-c506bb166365,iuliana+test590403@tinyemail.com,Kalomira,LastName,ACTIVE,FINISHED,2022-12-31 03:50:59,2023-01-05 03:59:33,Pro 15K,65,#N/A,#N/A,#N/A,#N/A,2022,12,31,53
